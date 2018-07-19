@@ -5,4 +5,4 @@ Practice Git Stuff
 
 Practice readme edits. 
 
-Under the header we can have some content to either add to edit later.
+Under the header we can have some stuff to edit later.
